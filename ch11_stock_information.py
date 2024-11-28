@@ -1,6 +1,5 @@
 import json
 import time
-from turtle import reset
 
 import openai
 import streamlit as st
